@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Самолёты</title>
+    </head>
+    <body>
+        <header style="background-color: orange;">
+            <img src="https://shmector.com/_ph/12/1017970.png" height="100px" width="100px";>
+            <a href="#plane discription">Описание самолётов</a>
+            </header>
+            <main>
+        <h1 style="text-align: center;">Самолёты гражданской авиации</h1>
+    <h2 style="text-align: center;">Одни из самых безопасных моделей самолётов</h2>
+    <p style="text-align: center;"><ol>
+        <li>Airbus A380</li>
+        <li>Boeing 787</li>
+        <li>Airbus A350</li>
+        </ol></p>
+        <img src="https://focus.ua/storage/pub/images/2019/0420592_1190.jpg" height="400px" width="710px">
+        <p name="plane discription">Airbus A380-четырёхдвигательный турбореактивный самолёт. Крупнейший серийный авиалайнер в мире. Длина-73 метра, высота-24 метра, размах крыла- 79 метров.</p>
+        <p>Boeing 787 Dreamliner-двухдвигательный самолёт. Длина-57 метров, размах крыла-60 метров, высота-16 метров.</p>
+        <p style="border-top: 3px dashed black; border-bottom: 3px dashed black;">Airbus A350-семейство дальнемагистральных двухдвигательных самолётов. Длина-60 с половиной метров, высота-17 метров, размах крыла-65 метров.</p>
+        </main>
+        <footer style="background-color: black; color: white;">
+            <p>Контакты: 8-777-666-55-44
+            </p>
+            <p>
+                Адрес: самолётосайтовская 3
+            </p>
+            </footer>
+        </body>
+    </html
